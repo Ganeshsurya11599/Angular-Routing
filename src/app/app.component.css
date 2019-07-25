@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding:0;
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+ul li{
+    padding: 10px;
+}
+ul:hover li{
+    opacity: .2;
+    filter:blur(2px);
+}
+ul li:hover, li:active{
+    opacity: 1;
+    filter:blur(0px);
+}
+.navbar{
+    float: right;
+}
+body{
+    background-color:lightgray;
+}
+.facebook {
+    margin-left: 30%;
+    color: white;
+  }
+  p{
+      color:black;
+      border:4px solid white;
+  }
+  footer{
+      background-color: blueviolet;
+      padding: 10px;
+  }
+

@@ -1,0 +1,9 @@
+.btn {
+    border: none;
+    color:slateblue;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+    outline-style: none;
+  }
+  

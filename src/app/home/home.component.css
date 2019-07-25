@@ -1,0 +1,11 @@
+p{
+    color:white;
+    width: 80%;
+    margin-left: 10%;
+}
+.bg{
+    background-image: url(/assets/zo.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

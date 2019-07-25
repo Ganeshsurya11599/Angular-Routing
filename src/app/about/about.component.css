@@ -1,0 +1,17 @@
+h4{
+    color: crimson;
+}
+p{
+    color:darkturquoise;
+}
+li{
+    margin:10px;
+    width:80%;
+    color:white;
+}
+.container{
+    background-image: url(/assets/na.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}

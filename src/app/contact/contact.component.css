@@ -1,0 +1,17 @@
+mark{
+    background-color: rgba(35, 35, 212, 0.336);
+    color: gold;
+}
+p{
+    color: white;
+    width: 100%;
+}
+li{
+    color: aliceblue;
+}
+.container{
+    background-image: url(/assets/ta.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
